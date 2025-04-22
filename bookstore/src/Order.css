@@ -1,0 +1,19 @@
+.container3{
+    border:1px solid black;
+    border-radius:10px;
+    padding:50px 300px;
+    height: 300px;
+    margin:50px;
+    margin-left: 300px;
+    max-width:250px;
+    display:inline-block;
+    align-items: center;
+    background: url('./assets/backbg200.webp');
+}
+.button1{
+    background-color:whitesmoke;
+    cursor: pointer;
+    font-weight: bold;
+    background:url('./assets/homebg10.jpg');
+   
+}
